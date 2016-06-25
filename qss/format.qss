@@ -1,0 +1,6 @@
+QPushButton{border-image:url(:/images/common.png);}
+QPushButton:hover{border-image: url(:/images/hover.png);}
+QPushButton:pressed{border-image: url(:/images/press.png);}
+QPushButton:disabled{border-image: url(:/images/hover.png);}
+QPushButton:checked{border-image: url(:/images/press.png);}
+QPushButton{color:white}
