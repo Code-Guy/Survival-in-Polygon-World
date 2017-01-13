@@ -23,7 +23,8 @@ There are 7 kinds of items: "First Aid", "Boom", "Speed Up(Bullet)", "Shield", "
 All game GUIs are integrated into a FSM(Finite State Machine)
 
 some .h .cpp file descriptions:
-  - audios.h/cpp: Define audio sources used in game, all of these are  - global phonon parameters 
+
+ - audios.h/cpp: Define audio sources used in game, all of these are  - global phonon parameters 
  - audios.h/cpp: Define audio sources used in game, all of these are  - global phonon parameters 
  - boomanim.h/cpp: Define boom animation 
  - bullet.h/cpp: Bullet, consist of player bullet and enemy bullet
